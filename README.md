@@ -26,7 +26,7 @@ This is a Node.js application for managing bulk data using PostgreSQL as the dat
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/bulk-data-management.git
+   git clone https://github.com/prakharsaxena3322/bulk-data-management.git
    cd bulk-data-management
 
 
